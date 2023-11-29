@@ -1,0 +1,1 @@
+We've heard good things about Argon2, so this must be secure!

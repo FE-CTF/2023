@@ -1,0 +1,12 @@
+Place 	Team 	Score
+1 	DTUHAX 	200043
+2 	Kalmar was here 	133777
+3 	free(vacation); 	127976
+4 	{{ team.name }} 	126707
+5 	segphault 	117977
+6 	Findsens Efterretningstjeneste (FET) 	82172
+7 	cyber angels 	54821
+8 	Hacker Stallions 	52088
+9 	itunderground 	37735
+10 	SH33PZ 	36715
+11 	AAUniqorns 	29880

@@ -1,0 +1,1 @@
+Running at `write-of-passage.hack.fe-ctf.dk:1337`.
